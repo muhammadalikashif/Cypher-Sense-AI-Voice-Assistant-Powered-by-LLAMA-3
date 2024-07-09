@@ -11,8 +11,8 @@ Support for setting a custom wake word
 System tray icon for minimizing the application to the taskbar
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/cypher-sense.git
-cd cypher-sense
+git clone https://github.com/muhammadalikashif/Cypher-Sense-AI-Voice-Assistant-Powered-by-LLAMA-3.git
+cd Cypher Sense
 Create a .env file in the root directory of the project and add your GROQ API key:
 GROQ_API_KEY=your_api_key
 Run the application:
